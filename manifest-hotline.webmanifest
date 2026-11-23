@@ -1,0 +1,32 @@
+{
+  "id": "./?hotline=true",
+  "name": "EVA 360 — Hotline",
+  "short_name": "EVA Hotline",
+  "description": "EVA Insulin 360 — insulin pen dispensing and patient support",
+  "start_url": "./?hotline=true",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBFAF7",
+  "theme_color": "#FBFAF7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

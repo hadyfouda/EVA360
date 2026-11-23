@@ -1,0 +1,1 @@
+function r(n){if(!n)return"Glargivin";const i=n.toLowerCase();return i.includes("mix")||i.includes("ميكس")?"Humaxin Mix 70/30":i.includes("rapid")||i.includes("رابيد")?"Humaxin Rapid":i.includes("glargivin")||i.includes("جلارجيفين")||i.includes("basal")?"Glargivin":n}export{r as f};
